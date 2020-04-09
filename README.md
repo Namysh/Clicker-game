@@ -26,5 +26,5 @@ Les fonctionnalités qui ont été réalisées :
  - 2 objectifs à atteindre (level 15 et 100.000.000 de monnaie)
  
  Aperçu du jeu :
-![alt text](https://github.com/Namysh/clicker-game.py/blob/master/aper%C3%A7u.png"aper_u")
+![alt text](https://github.com/Namysh/clicker-game.py/blob/master/aperçu.png"apercu")
 
