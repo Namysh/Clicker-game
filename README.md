@@ -9,7 +9,7 @@ toujours gagner plus de monnaie.
 
 > La balance de départ du joueur sera fixée à 200 monnaie du jeu (coin).
 
-Les fonctionnalités prévues était:
+Les fonctionnalités prévues étaient:
 
  - Système d’inscription / connexion
  - Système de gain automatique
